@@ -1,0 +1,93 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: x86",
+    "file_": "/Users/adhithyailayaraja/Downloads/sudoku_app 2/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/adhithyailayaraja/Downloads/sudoku_app 2/app/.cxx/Debug/645r244u/x86/android_gradle_build.json due to:",
+    "file_": "/Users/adhithyailayaraja/Downloads/sudoku_app 2/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "/Users/adhithyailayaraja/Downloads/sudoku_app 2/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/Users/adhithyailayaraja/Downloads/sudoku_app 2/app/.cxx/Debug/645r244u/x86\u0027",
+    "file_": "/Users/adhithyailayaraja/Downloads/sudoku_app 2/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/Users/adhithyailayaraja/Downloads/sudoku_app 2/app/.cxx/Debug/645r244u/x86\u0027",
+    "file_": "/Users/adhithyailayaraja/Downloads/sudoku_app 2/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake /Users/adhithyailayaraja/Library/Android/sdk/cmake/3.22.1/bin/cmake \\\n  \"-H/Users/adhithyailayaraja/Downloads/sudoku_app 2/app/src/main/cpp\" \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d24 \\\n  -DANDROID_PLATFORM\u003dandroid-24 \\\n  -DANDROID_ABI\u003dx86 \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003dx86 \\\n  -DANDROID_NDK\u003d/Users/adhithyailayaraja/Library/Android/sdk/ndk/25.1.8937393 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/adhithyailayaraja/Library/Android/sdk/ndk/25.1.8937393 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/adhithyailayaraja/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/adhithyailayaraja/Library/Android/sdk/cmake/3.22.1/bin/ninja \\\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/adhithyailayaraja/Downloads/sudoku_app 2/app/build/intermediates/cxx/Debug/645r244u/obj/x86\" \\\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/adhithyailayaraja/Downloads/sudoku_app 2/app/build/intermediates/cxx/Debug/645r244u/obj/x86\" \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  \"-B/Users/adhithyailayaraja/Downloads/sudoku_app 2/app/.cxx/Debug/645r244u/x86\" \\\n  -GNinja\n",
+    "file_": "/Users/adhithyailayaraja/Downloads/sudoku_app 2/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "/Users/adhithyailayaraja/Library/Android/sdk/cmake/3.22.1/bin/cmake \\\n  \"-H/Users/adhithyailayaraja/Downloads/sudoku_app 2/app/src/main/cpp\" \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d24 \\\n  -DANDROID_PLATFORM\u003dandroid-24 \\\n  -DANDROID_ABI\u003dx86 \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003dx86 \\\n  -DANDROID_NDK\u003d/Users/adhithyailayaraja/Library/Android/sdk/ndk/25.1.8937393 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/adhithyailayaraja/Library/Android/sdk/ndk/25.1.8937393 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/adhithyailayaraja/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/adhithyailayaraja/Library/Android/sdk/cmake/3.22.1/bin/ninja \\\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/adhithyailayaraja/Downloads/sudoku_app 2/app/build/intermediates/cxx/Debug/645r244u/obj/x86\" \\\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/adhithyailayaraja/Downloads/sudoku_app 2/app/build/intermediates/cxx/Debug/645r244u/obj/x86\" \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  \"-B/Users/adhithyailayaraja/Downloads/sudoku_app 2/app/.cxx/Debug/645r244u/x86\" \\\n  -GNinja\n",
+    "file_": "/Users/adhithyailayaraja/Downloads/sudoku_app 2/app/src/main/cpp/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  }
+]

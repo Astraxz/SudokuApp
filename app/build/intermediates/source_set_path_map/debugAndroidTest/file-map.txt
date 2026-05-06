@@ -1,0 +1,4 @@
+com.sudoku.app.test.app-androidTest-0 /Users/adhithyailayaraja/Downloads/sudoku_app 2/app/build/generated/res/resValues/androidTest/debug
+com.sudoku.app.test.app-mergeDebugAndroidTestResources-1 /Users/adhithyailayaraja/Downloads/sudoku_app 2/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.sudoku.app.test.app-mergeDebugAndroidTestResources-2 /Users/adhithyailayaraja/Downloads/sudoku_app 2/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.sudoku.app.test.app-merged_res-3 /Users/adhithyailayaraja/Downloads/sudoku_app 2/app/build/intermediates/merged_res/debugAndroidTest
